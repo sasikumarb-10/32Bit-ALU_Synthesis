@@ -65,7 +65,7 @@ endmodule
 ### Step 2 : Performing Synthesis
 
 The Liberty files are present in the library path,
-![Screenshot 2025-05-20 140433](https://github.com/user-attachments/assets/1403c4bb-e410-4177-8936-4f040d4b0366)
+![Screenshot 2025-05-20 142337](https://github.com/user-attachments/assets/f0848c86-25cc-402a-99ea-dc8b9d7b237d)
 
 • The Available technology nodes are 180nm ,90nm and 45nm.
 
